@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">AplikasiResep</string>
+    <string-array name="resep">
+        <item>Sayur Asem Kangkung\n</item>
+        <item>Sayur Asem Sunda\n</item>
+        <item>Sayur Asem Bumbu Kuning\n</item>
+        <item>Sayur Asem Jawa Tengah\n</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Kangkung bukan hanya bisa dimasak tumis atau dibuat cah, tetapi juga dapat menjadi bahan utama dalam sayur asem. Kangkung memiliki banyak manfaat untuk kesehatan. Di antaranya menjaga kesehatan mata hingga mencegah dehidrasi.</item>
+        <item>Resep sayur asem yang kedua ini bisa Anda coba di rumah sebagai variasi dari sayur yang biasa Anda buat.</item>
+        <item>Resep sayur asem yang satu ini beda dari yang lain karena pakai kunyit sebagai rempah. Selain menambah kelezatan, kunyit terkenal memiliki berbagai manfaat untuk kesehatan. Antara lain untuk mengurangi gas pada sistem pencernaan yang bikin kembung sekaligus meredakan mual. </item>
+        <item>Resep sayur asem Jawa Tengah ini cukup khas karena bumbunya tidak dihaluskan, melainkan hanya diiris-iris saja. </item>
+    </string-array>
+    <string-array name="bahan">
+        <item>
+                Bahan-bahan :\n
+
+               1.  3 ikat kangkung, bersihkan dan potong\n
+               2.  100 gram kacang merah segar\n
+               3.  4 buah tomat, potong jadi empat bagian\n
+               4.  700 cc air\n\n
+
+                Bumbu halus :\n
+
+               5.  2 siung bawang putih\n
+               6.  7 siung bawang merah\n
+               7.  3 buah cabai merah besar\n
+               8.  2 butir kemiri\n
+               9.  ½ sdt terasi matang\n
+               10. Sepotong lengkuas, memarkan\n
+               11. 3 lembar daun salam\n
+               12. Air asam secukupnya sesuai selera\n
+               13. Garam secukupnya\n
+               14. Gula secukupnya\n
+
+        </item>
+        <item>
+                Bahan-bahan : \n
+
+                1.  1 buah labu siam besar, potong dadu\n
+                2.  5 buah kacang panjang, potong-potong\n
+                3.  2 buah jagung manis, potong-potong\n
+                4.  50 gram melinjo\n
+                5.  25 gram daun melinjo\n
+                6.  50 gram kacang tanah, rebus sampai empuk\n
+                7.  4 sdm air asam jawa\n
+                8.  2 lembar daun salam\n
+                9.  2 cm lengkuas geprek\n
+                10. 2 liter air\n
+                11. Garam secukupnya\n
+                12. Gula merah secukupnya\n\n
+
+                Bumbu halus : \n
+
+                13. 5 siung bawang merah\n
+                14. 2 siung bawang putih\n
+                15. 3 buah cabai merah\n
+                16. 1 sdt terasi\n
+                17. 3 butir kemiri sangrai\n
+
+        </item>
+        <item>
+                Bahan-bahan : \n
+
+                1. 2.000 ml air\n
+                2. 4 sdt garam\n
+                3. 3 sdm gula merah sisir\n
+                4. 3 lembar daun salam\n
+                5. 3 cm lengkuas, memarkan\n
+                6. 100 gram melinjo\n
+                7. 2 buah jagung manis, potong 2,5 cm\n
+                8. ½ buah labu siam, potong-potong\n
+                9. 1 ikat kangkung\n
+                10. 2,5 sdm asam jawa yang dilarutkan dalam 3 sdm air\n\n
+
+                Bumbu halus : \n
+
+                11. 4 butir kemiri sangrai\n
+                12. 3 cm kunyit bakar\n
+                13. 1 sdt terasi bakar\n
+                14. 8 butir bawang merah\n
+
+        </item>
+        <item>
+                Bahan : \n
+
+                1. 4 buah labu siam, belah empat bagian\n
+                2. 6 buah kacang panjang, potong-potong\n
+                3. 1 buah jagung manis, potong-potong\n
+                4. 100 gr melinjo\n
+                5. 1 sdt asam jawa\n
+                6. 2 cm lengkuas, memarkan\n
+                7. 3 lembar daun salam\n
+                8. 1 liter air\n
+                9. 1 sdt gula\n
+                10. 1 sdt garam\n\n
+
+                Bumbu Halus : \n
+
+                11. 3 buah cabai merah\n
+                12. 2 buah cabai hijau\n
+                13. 5 siung bawang merah\n
+                14. siung bawang putih\n
+
+        </item>
+    </string-array>
+    <string-array name="cara">
+        <item>
+                Cara Memasak : \n
+                1. Rebus kacang merah sampai lunak.\n
+                2. Haluskan bawang putih, bawang merah, cabai merah, kemiri, dan terasi matang.\n
+                3. Didihkan air di panci dan masukkan semua bumbu yang telah dihaluskan.\n
+                4. Tambahkan daun salam, lengkuas, air asam, garam, dan gula.\n
+                5. Masukkan kangkung, tomat, dan kacang merah secara bersamaan. Masak hingga matang.\n
+        </item>
+        <item>
+                Cara Memasak : \n
+                1. Siapkan panci, rebus air sampai mendidih.\n
+                2. Masukkan lengkuas, daun salam, dan bumbu halus. Biarkan hingga mendidih.\n
+                3. Masukkan jagung manis dan melinjo, masak hingga jagung matang.\n
+                4. Masukkan kacang tanah dan labu siam. Masak hingga labu matang.\n
+                5. Masukkan daun melinjo, kacang panjang, garam, gula, dan air asam. Aduk hingga rata.\n
+                6. Masak sampai semua matang dan sajikan selagi panas.\n
+                7. Jika ingin lebih pedas, Anda bisa menambahkan cabai merah. Agar lebih nikmat dan bergizi, Anda juga dapat menambahkan jagung manis muda.\n
+        </item>
+        <item>
+                Cara Memasak : \n
+
+                1. Siapkan panci, lalu rebus air. Masukkan bumbu halus, garam, gula merah, daun salam, lengkuas, dan melinjo. Biarkan hingga melinjo matang.\n
+                2. Tambahkan jagung manis. Masak hingga empuk.\n
+                3. Masukkan labu siam. Masak hingga matang.\n
+                4. Tambahkan daun melinjo, kangkung, dan air asam. Aduk hingga matang.\n
+                5. Sajikan selagi hangat.\n
+        </item>
+        <item>
+                Cara Memasak : \n
+
+                1. Cuci bersih semua sayuran. Sisihkan.\n
+                2. Larutkan asam jawa dengan 2 sdm air panas lalu saring. Ambil airnya dan sisihkan.\n
+                3. Didihkan air di dalam panci, masukkan bumbu iris, daun salam, dan lengkuas. Aduk rata dan biarkan sebentar.\n
+                4. Masukkan melinjo dan labu siam. Masak hingga agak matang.\n
+                5. Masak sisa sayuran lainnya dan diamkan hingga layu.\n
+                6. Tambahkan air asam jawa, gula, dan garam. Aduk rata dan angkat.\n
+        </item>
+    </string-array>
+    <string-array name="title">
+        <item>Cara 1</item>
+        <item>Cara 2</item>
+        <item>Cara 3 </item>
+        <item>Cara 4 </item>
+    </string-array>
+
+
+</resources>
